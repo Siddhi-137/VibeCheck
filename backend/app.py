@@ -6,7 +6,7 @@ from week3_main import predict_emotion
 from week4_main import fetch_tracks
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, resources={r"/*": {"origins": "*"}})
 
 # Mapping emotion labels to Last.fm tags
 MOOD_TAGS = {
