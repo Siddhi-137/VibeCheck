@@ -9,7 +9,7 @@ CORS(app, resources={r"/*": {"origins": "*"}})
 
 @app.after_request
 def add_cors_headers(response):
-    response.headers["Access-Control-Allow-Origin"] = "https://vibecheckfrontend.vercel.app"
+    response.headers["Access-Control-Allow-Origin"] = "https://vibecheck-chi-ruddy.vercel.app"    
     response.headers["Access-Control-Allow-Headers"] = "Content-Type"
     response.headers["Access-Control-Allow-Methods"] = "GET, POST, OPTIONS"
     return response
