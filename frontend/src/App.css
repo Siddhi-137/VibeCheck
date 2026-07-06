@@ -1,0 +1,111 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #111827;
+  color: white;
+}
+
+.app {
+  max-width: 900px;
+  margin: auto;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 48px;
+  margin-bottom: 10px;
+}
+
+.subtitle {
+  color: #d1d5db;
+  margin-bottom: 30px;
+}
+
+.input-box {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-bottom: 25px;
+}
+
+textarea {
+  height: 120px;
+  padding: 15px;
+  border-radius: 10px;
+  border: none;
+  resize: none;
+  font-size: 16px;
+}
+
+button {
+  padding: 12px 20px;
+  border: none;
+  border-radius: 8px;
+  background: #6366f1;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:disabled {
+  background: #6b7280;
+  cursor: not-allowed;
+}
+
+.loading {
+  color: #facc15;
+}
+
+.error {
+  color: #f87171;
+  font-weight: bold;
+}
+
+.result {
+  margin-top: 30px;
+}
+
+.result span {
+  color: #a78bfa;
+  text-transform: capitalize;
+}
+
+.song-list {
+  margin-top: 25px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+}
+
+.song-card {
+  background: #1f2937;
+  padding: 20px;
+  border-radius: 14px;
+  text-align: center;
+}
+
+.cover {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.song-card h3 {
+  margin: 12px 0 5px;
+}
+
+.song-card p {
+  color: #d1d5db;
+}
+
+.listen-btn {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 14px;
+  background: #10b981;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+}

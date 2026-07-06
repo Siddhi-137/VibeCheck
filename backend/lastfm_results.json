@@ -1,0 +1,194 @@
+{
+    "joy": [
+        {
+            "song": "Send Me On My Way",
+            "artist": "Rusted Root",
+            "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/8c18de26aed8efe3105953144a814e81.png",
+            "url": "https://www.last.fm/music/rusted%2broot/_/send%2bme%2bon%2bmy%2bway"
+        },
+        {
+            "song": "Dancing in the Moonlight",
+            "artist": "Toploader",
+            "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/5b56d4ee3c110b66f173afdb4047517d.png",
+            "url": "https://www.last.fm/music/toploader/_/dancing%2bin%2bthe%2bmoonlight"
+        },
+        {
+            "song": "I'm Yours",
+            "artist": "Jason Mraz",
+            "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/a45e42f0bda5c1f0be8860273c364331.png",
+            "url": "https://www.last.fm/music/jason%2bmraz/_/i%2527m%2byours"
+        },
+        {
+            "song": "5 Years Time",
+            "artist": "Noah and the Whale",
+            "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/40a55a5d0c094f65a0575a53581117b9.png",
+            "url": "https://www.last.fm/music/noah%2band%2bthe%2bwhale/_/5%2byears%2btime"
+        },
+        {
+            "song": "Hey, Soul Sister",
+            "artist": "Train",
+            "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/bc8a9070b373e3602ae9124776683088.png",
+            "url": "https://www.last.fm/music/train/_/hey%252c%2bsoul%2bsister"
+        }
+    ],
+    "sadness": [
+        {
+            "song": "Forget Her",
+            "artist": "Jeff Buckley",
+            "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/c1df364b6c262df07caa6cde2d066d7b.png",
+            "url": "https://www.last.fm/music/jeff%2bbuckley/_/forget%2bher"
+        },
+        {
+            "song": "Ultraviolence",
+            "artist": "Lana Del Rey",
+            "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/916438133fc249e7c96f66ae29d5d1af.png",
+            "url": "https://www.last.fm/music/lana%2bdel%2brey/_/ultraviolence"
+        },
+        {
+            "song": "The Heart Wants What It Wants",
+            "artist": "Selena Gomez",
+            "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/ee24870602ba34d0848d64423bc4a954.png",
+            "url": "https://www.last.fm/music/selena%2bgomez/_/the%2bheart%2bwants%2bwhat%2bit%2bwants"
+        },
+        {
+            "song": "One Last Time",
+            "artist": "Ariana Grande",
+            "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/b68854212b18163a584df683cb7c0fe0.png",
+            "url": "https://www.last.fm/music/ariana%2bgrande/_/one%2blast%2btime"
+        },
+        {
+            "song": "Matilda",
+            "artist": "Harry Styles",
+            "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/32061f0904363502f73b77be7bb74eaf.png",
+            "url": "https://www.last.fm/music/harry%2bstyles/_/matilda"
+        }
+    ],
+    "anger": [
+        {
+            "song": "Limp",
+            "artist": "Fiona Apple",
+            "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/2e72dc2ca45c427bb3c6a6e11604cef7.png",
+            "url": "https://www.last.fm/music/fiona%2bapple/_/limp"
+        },
+        {
+            "song": "Seventy Times 7",
+            "artist": "Brand New",
+            "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/dba4f1f0d805bfbb163556c8218af0fa.png",
+            "url": "https://www.last.fm/music/brand%2bnew/_/seventy%2btimes%2b7"
+        },
+        {
+            "song": "Somewhat Damaged",
+            "artist": "Nine Inch Nails",
+            "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/8eaa9146fbad4b62bd5a489fc0651ec0.png",
+            "url": "https://www.last.fm/music/nine%2binch%2bnails/_/somewhat%2bdamaged"
+        },
+        {
+            "song": "Break Stuff",
+            "artist": "Limp Bizkit",
+            "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/1c00f7b9cd94c2b6fbd7f12fc00bd8d2.png",
+            "url": "https://www.last.fm/music/limp%2bbizkit/_/break%2bstuff"
+        },
+        {
+            "song": "Bloody Mother Fucking Asshole",
+            "artist": "Martha Wainwright",
+            "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/5254a524d21049b5341e70219933eab0.png",
+            "url": "https://www.last.fm/music/martha%2bwainwright/_/bloody%2bmother%2bfucking%2basshole"
+        }
+    ],
+    "fear": [
+        {
+            "song": "Clara",
+            "artist": "Scott Walker",
+            "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/2487690e19a5f8f3734f09697e58ddc3.png",
+            "url": "https://www.last.fm/music/scott%2bwalker/_/clara"
+        },
+        {
+            "song": "Waking the Witch",
+            "artist": "Kate Bush",
+            "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/92a32800510fc8763934c93ecd0b949e.png",
+            "url": "https://www.last.fm/music/kate%2bbush/_/waking%2bthe%2bwitch"
+        },
+        {
+            "song": "Frankie Teardrop",
+            "artist": "Suicide",
+            "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/2b652e6fadeb46df9c60b1fbc9cecb59.png",
+            "url": "https://www.last.fm/music/suicide/_/frankie%2bteardrop"
+        },
+        {
+            "song": "Jolson and Jones",
+            "artist": "Scott Walker",
+            "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/2487690e19a5f8f3734f09697e58ddc3.png",
+            "url": "https://www.last.fm/music/scott%2bwalker/_/jolson%2band%2bjones"
+        },
+        {
+            "song": "Lady Dada's Nightmare",
+            "artist": "MGMT",
+            "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/9718ffa7a84a454594ebe64f627c0fde.png",
+            "url": "https://www.last.fm/music/mgmt/_/lady%2bdada%2527s%2bnightmare"
+        }
+    ],
+    "love": [
+        {
+            "song": "Talking to the Moon",
+            "artist": "Bruno Mars",
+            "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/c3c4dde679eb3436694c2411fe0ff15c.png",
+            "url": "https://www.last.fm/music/bruno%2bmars/_/talking%2bto%2bthe%2bmoon"
+        },
+        {
+            "song": "Love You Like a Love Song",
+            "artist": "Selena Gomez & the Scene",
+            "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/4567c0cb1e2bd7ef878713004a469da7.png",
+            "url": "https://www.last.fm/music/selena%2bgomez%2b%2526%2bthe%2bscene/_/love%2byou%2blike%2ba%2blove%2bsong"
+        },
+        {
+            "song": "The Only Exception",
+            "artist": "Paramore",
+            "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/8935ea2d777c8f2f5f3c7a8f521ea9fb.png",
+            "url": "https://www.last.fm/music/paramore/_/the%2bonly%2bexception"
+        },
+        {
+            "song": "Lover, You Should've Come Over",
+            "artist": "Jeff Buckley",
+            "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/b9c826bf4d8da57694c54d7403d5cb18.png",
+            "url": "https://www.last.fm/music/jeff%2bbuckley/_/lover%252c%2byou%2bshould%2527ve%2bcome%2bover"
+        },
+        {
+            "song": "Thinking Out Loud",
+            "artist": "Ed Sheeran",
+            "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/d904dd085fb44fabcfd0834b8d2a5d92.png",
+            "url": "https://www.last.fm/music/ed%2bsheeran/_/thinking%2bout%2bloud"
+        }
+    ],
+    "surprise": [
+        {
+            "song": "Surprise",
+            "artist": "robby maria & the silent revolution",
+            "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/7d1d19fb239c4fbc93fe49bbc47c1df0.png",
+            "url": "https://www.last.fm/music/robby%2bmaria%2b%2526%2bthe%2bsilent%2brevolution/_/surprise"
+        },
+        {
+            "song": "Surprise",
+            "artist": "Robby Maria",
+            "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/8e2295c95c4848e595618888eef41a02.png",
+            "url": "https://www.last.fm/music/robby%2bmaria/_/surprise"
+        },
+        {
+            "song": "Unwelcome Surprise",
+            "artist": "Flotsam and Jetsam",
+            "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/49a061ba21d36ab92fb0ff2c10c373ce.png",
+            "url": "https://www.last.fm/music/flotsam%2band%2bjetsam/_/unwelcome%2bsurprise"
+        },
+        {
+            "song": "It's A Surprise (live on MOKB radio)",
+            "artist": "Here We Go Magic",
+            "cover_image": null,
+            "url": "https://www.last.fm/music/here%2bwe%2bgo%2bmagic/_/it%2527s%2ba%2bsurprise%2b%2528live%2bon%2bmokb%2bradio%2529"
+        },
+        {
+            "song": "Stragglin' Behind",
+            "artist": "The Lemon Pipers",
+            "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/eec64e2326690a9c8cd2b7ab5cadc84e.png",
+            "url": "https://www.last.fm/music/the%2blemon%2bpipers/_/stragglin%2527%2bbehind"
+        }
+    ]
+}

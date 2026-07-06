@@ -1,0 +1,77 @@
+Week 3 Emotion Detector Results
+================================
+transformers version: 5.12.1
+torch version: 2.12.1+cpu
+model: bhadresh-savani/distilbert-base-uncased-emotion
+
+1. I feel joyful and excited because my song finally came together.
+Cleaned: feel joyful excited song finally came together
+Expected: joy
+Predicted: joy
+Confidence: 0.9989
+Correct: yes
+
+2. Winning the quiz made me happy, proud, and full of energy.
+Cleaned: winning quiz made happy proud full energy
+Expected: joy
+Predicted: joy
+Confidence: 0.9982
+Correct: yes
+
+3. I feel sad and lonely after saying goodbye to my best friend.
+Cleaned: feel sad lonely saying goodbye best friend
+Expected: sadness
+Predicted: sadness
+Confidence: 0.9986
+Correct: yes
+
+4. The empty room made me feel hopeless and deeply disappointed.
+Cleaned: empty room made feel hopeless deeply disappointed
+Expected: sadness
+Predicted: sadness
+Confidence: 0.9990
+Correct: yes
+
+5. I am furious and angry that my work was deleted without warning.
+Cleaned: furious angry work deleted without warning
+Expected: anger
+Predicted: anger
+Confidence: 0.9977
+Correct: yes
+
+6. His rude comment made me irritated, offended, and ready to shout.
+Cleaned: rude comment made irritated offended ready shout
+Expected: anger
+Predicted: anger
+Confidence: 0.9978
+Correct: yes
+
+7. I am terrified and afraid of walking alone through the dark street.
+Cleaned: terrified afraid walking alone dark street
+Expected: fear
+Predicted: fear
+Confidence: 0.9977
+Correct: yes
+
+8. I adore my partner and love them with my whole heart.
+Cleaned: adore partner love whole heart
+Expected: love
+Predicted: love
+Confidence: 0.5932
+Correct: yes
+
+9. Her gentle message made me feel loved, cared for, and warm.
+Cleaned: gentle message made feel loved cared warm
+Expected: love
+Predicted: love
+Confidence: 0.9956
+Correct: yes
+
+10. I was shocked and surprised when everyone planned a party for me.
+Cleaned: shocked surprised everyone planned party
+Expected: surprise
+Predicted: surprise
+Confidence: 0.9799
+Correct: yes
+
+Summary: 10 out of 10 predictions matched the expected labels.
