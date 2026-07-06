@@ -45,7 +45,7 @@ function App() {
     setResult(null);
 
     try {
-      const response = await fetch("https://vibecheck-backend-kg4t.onrender.com", {
+      const response = await fetch("https://vibecheck-backend-kg4t.onrender.com/predict", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
