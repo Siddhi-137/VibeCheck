@@ -75,8 +75,13 @@ TEST_SENTENCES = [
     ),
 ]
 
-classifier = pipeline("text-classification", model=MODEL_NAME)
+classifier = None
 
+def get_classifier():
+    global classifier
+    if classifier is None:
+        classifier = pipeline("text-classification", model=MODEL_NAME)
+    return classifier
 
 def predict_emotion(text):
     """
@@ -90,7 +95,7 @@ def predict_emotion(text):
     if not cleaned_text:
         cleaned_text = str(text)
 
-    prediction = classifier(cleaned_text)[0]
+    prediction = get_classifier()(cleaned_text)[0]
     return prediction["label"], prediction["score"], cleaned_text
 
 
