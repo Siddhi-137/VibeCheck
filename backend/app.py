@@ -1,6 +1,5 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-
 from preprocess import preprocess
 from week3_main import predict_emotion
 from week4_main import fetch_tracks
@@ -8,6 +7,12 @@ from week4_main import fetch_tracks
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}})
 
+@app.after_request
+def add_cors_headers(response):
+    response.headers["Access-Control-Allow-Origin"] = "https://vibecheckfrontend.vercel.app"
+    response.headers["Access-Control-Allow-Headers"] = "Content-Type"
+    response.headers["Access-Control-Allow-Methods"] = "GET, POST, OPTIONS"
+    return response
 # Mapping emotion labels to Last.fm tags
 MOOD_TAGS = {
     "joy": "happy",
