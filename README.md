@@ -64,3 +64,7 @@ http://localhost:5173
 ## LIVE DEMO
 
 🌐 https://vibecheckfrontend.vercel.app/
+
+### Screenshots
+
+Screenshots of the live demo have been uploaded in the **images** folder of this repository.
